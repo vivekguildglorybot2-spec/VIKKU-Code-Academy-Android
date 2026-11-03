@@ -1,0 +1,8 @@
+{
+  "appId": "com.vikku.codeacademy",
+  "appName": "VIKKU Code Academy",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
